@@ -1,0 +1,9 @@
+ProtoStax_MmlMusicPlayer	KEYWORD1
+begin	KEYWORD2
+setPlayCallback	KEYWORD2
+setToneCallback	KEYWORD2
+setCompletionCallback	KEYWORD2
+play	KEYWORD2
+play_P	KEYWORD2
+isPlaying	KEYWORD2
+
