@@ -3,7 +3,7 @@
 
   The ProtoStax_MmlMusicPlayer library extends the MmlMusic library to provide asynchronous playback 
   capabilities using all available Timers on the Arduino. 
-  This has been tested with the Arduino Uno and uses Timer 1 and Timer 2.
+  This has been tested with the Arduino Uno and uses Timer 1 and Timer 2. 
 
   Muliple ProtoStax_MmlMusicPlayer objects can be 
   instantiated, and each will use an available timer. On the Arduino Uno, there are two Timers - Timer1 and Timer2 -

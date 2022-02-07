@@ -2,9 +2,8 @@
 
 This is a example sketch for the ProtoStax Mml Music Player library
 
-![ProtoStax Arduino Nano BLE RGB LED Service Demo](ProtoStax_Arduino_Nano_BLE_RGBLED_Service_Demo.jpg)
+![ProtoStax Mml Music Player](ProtoStax_Mml_Music_Player.gif)
 
-   
   It uses
   Arduino Uno,
   [ProtoStax for Arduino](https://www.protostax.com/collections/all/products/protostax-for-arduino),
