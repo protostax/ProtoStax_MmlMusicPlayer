@@ -1,6 +1,15 @@
 # ProtoStax_MmlMusicPlayer
 The ProtoStax_MmlMusicPlayer is an Arduino library to play multiple Music Macro Language sequences asynchronously. It extends the [MmlMusic](https://github.com/maxint-rd/MmlMusic) base library to provide multi-sequence asynchronous playback capabilities using any available Timers on the Arduino. 
 
+It is useful when you would like to play multiple tracks (like playing
+melody and chords of a song as in the PlayTunes example), or for
+playing different tracks simultaneously (background music and effects
+in gaming, for instance). Since they happen the background, you are
+free to continue with your processing in your main loop for other
+activities.
+
+![ProtoStax Mml Music Player](examples/PlayTunes/ProtoStax_Mml_Music_Player.gif)
+
 This has been tested with the Arduino Uno using both Timer 1 and Timer 2.
 
 ### Introduction
